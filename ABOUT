@@ -1,0 +1,3 @@
+designed 4 functions to create the maze from an input .txt file, print the maze, 
+solve the maze using depth first search with recursion and backtracking, and a destroy
+maze function to free up allocated memory once solved
